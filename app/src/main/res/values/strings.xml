@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">PokemonTest</string>
+    <string name="tab_pokedex">Pokédex</string>
+    <string name="tab_wishlist">Wishlist</string>
+
+    <string name="search_placeholder">Search by name, type, or ability</string>
+    <string name="action_retry">Retry</string>
+    <string name="action_clear_search">Clear search</string>
+
+    <string name="cd_pokemon_sprite">Pokémon sprite</string>
+    <string name="cd_add_to_wishlist">Add to wishlist</string>
+    <string name="cd_remove_from_wishlist">Remove from wishlist</string>
+    <string name="cd_search">Search</string>
+
+    <string name="empty_wishlist_title">No favorites yet</string>
+    <string name="empty_wishlist_subtitle">Tap the heart on any Pokémon to add it to your wishlist.</string>
+    <string name="empty_search_title">No results</string>
+    <string name="empty_search_subtitle">Try a different name, type, or ability.</string>
+
+    <string name="error_no_internet">No internet connection. Check your network and try again.</string>
+    <string name="error_server_unavailable">Server is unavailable. Try again later.</string>
+    <string name="error_generic">Something went wrong. Please try again.</string>
+    <string name="partial_failure_banner">Failed to load %1$d of %2$d Pokémon.</string>
+
+    <string name="stat_hp">HP</string>
+    <string name="stat_attack">Attack</string>
+    <string name="stat_defense">Defense</string>
+    <string name="stat_special_attack">Sp. Atk</string>
+    <string name="stat_special_defense">Sp. Def</string>
+    <string name="stat_speed">Speed</string>
+    <string name="stat_base_total">Base Total: %1$d</string>
+</resources>
