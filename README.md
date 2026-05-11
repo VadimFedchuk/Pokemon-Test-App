@@ -16,14 +16,14 @@ lets the user mark favourites, and persists them locally.
 
 ## Tech Stack
 
-- **Language / build:** Kotlin 2.0.21, AGP 8.7.3, KSP 2.0.21
+- **Language:** Kotlin
 - **UI:** Jetpack Compose, Material 3, Navigation Compose
 - **Architecture:** MVI per screen, Clean Architecture across layers
-- **DI:** Koin 4
+- **DI:** Koin
 - **Networking:** Retrofit, Moshi (reflection), OkHttp logging
-- **Local storage:** Room 2.7 (TypeConverters, no `@Relation`)
-- **Concurrency:** Coroutines, Flow, structured concurrency via `coroutineScope`
-- **Images:** Coil 2
+- **Local storage:** Room (TypeConverters, no `@Relation`)
+- **Concurrency:** Coroutines, Flow
+- **Images:** Coil
 - **Testing:** JUnit, MockK, Turbine, coroutines-test
 
 ## Setup
